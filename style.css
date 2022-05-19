@@ -180,6 +180,9 @@ section{
 .contact .icon{
     font-size: 4.5em;
 }
+.contact{
+    background-color: #08102a;
+}
 .contact .info h3{
     color: #000;
 }
